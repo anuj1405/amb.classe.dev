@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[Test_title]]></title>
+		<regularprice><![CDATA[200]]></regularprice>
+		<price><![CDATA[50]]></price>
+		<photo><![CDATA[http://shop.ambclasse.com/wp-content/uploads/2014/05/p11.png]]></photo>
+		<category><![CDATA[shirts]]></category>
+		<sizes><![CDATA[34,36]]></sizes>
+		<description><![CDATA[test_descript]]></description>
+		<sku><![CDATA[test_sku]]></sku>
+	</node>
+</data>

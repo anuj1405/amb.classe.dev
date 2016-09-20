@@ -1,0 +1,30 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+ #nc-list-grid-icons{margin:10px 0; clear:both; text-align:left;}
+ #nc-list-grid-icons a{padding-right:10px; display:inline-block; border:0;}
+  #nc-list-grid-icons a img{border:0;}
+  .woocommerce ul.list li{text-align:left !important;}
+  .woocommerce ul.list li::after{clear:both;}
+   
+ .woocommerce ul.list li.product, .woocommerce ul.list li.product{width:100% !important;}
+ .woocommerce ul.list li.product .product-image-box, .woocommerce ul.list li.product .product-image-box{width:30% !important; height:auto !important; float:left;}
+ 
+.woocommerce ul.products.list li.product .list-content-left {
+  width: 22%;
+  float: left;
+  clear: none;
+text-align:left;
+}
+.woocommerce ul.products.list li.product .list-content-right {
+  width: 74%;
+  float: right;
+  clear: none;
+ text-align:left;
+}
+.woocommerce ul.products.grid div.nc-list-grid-view-excerpt {
+display:none;
+text-align:left;
+}

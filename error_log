@@ -1,0 +1,392 @@
+[02-Jul-2016 15:47:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/library/enjoyinstagram_shortcode.php on line 69
+[02-Jul-2016 15:48:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/library/enjoyinstagram_shortcode.php on line 69
+[02-Jul-2016 15:48:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/library/enjoyinstagram_shortcode.php on line 69
+[03-Jul-2016 19:56:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/revslider/includes/slider.class.php on line 116
+[04-Jul-2016 10:53:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/revslider/includes/slider.class.php on line 116
+[04-Jul-2016 10:53:30 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/revslider/includes/slider.class.php on line 116
+[04-Jul-2016 13:03:22 UTC] PHP Warning:  require_once(/home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/js_composer/include/classes/vendors/plugins/woocommerce/grid-item-filters.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/js_composer/include/autoload/vendors/woocommerce.php on line 33
+[04-Jul-2016 13:03:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/js_composer/include/classes/vendors/plugins/woocommerce/grid-item-filters.php' (include_path='.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/js_composer/include/autoload/vendors/woocommerce.php on line 33
+[04-Jul-2016 13:03:22 UTC] PHP Warning:  require_once(/home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/js_composer/include/classes/vendors/plugins/woocommerce/grid-item-filters.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/js_composer/include/autoload/vendors/woocommerce.php on line 33
+[04-Jul-2016 13:03:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/js_composer/include/classes/vendors/plugins/woocommerce/grid-item-filters.php' (include_path='.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/js_composer/include/autoload/vendors/woocommerce.php on line 33
+[05-Jul-2016 08:52:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/header.php on line 39
+[05-Jul-2016 08:52:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/header.php on line 39
+[05-Jul-2016 12:29:54 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:34:33 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:35:04 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:36:48 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:41:44 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:45:06 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:48:43 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:49:35 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:50:27 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:50:35 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:53:05 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:53:14 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:53:43 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:55:11 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:55:36 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:57:46 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 12:59:50 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 13:00:43 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 13:02:36 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 13:04:15 UTC] PHP Fatal error:  Call to a member function get_price_html() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/price.php on line 37
+[05-Jul-2016 13:10:19 UTC] PHP Fatal error:  Call to a member function get_gallery_attachment_ids() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/laborator-shortcodes/laborator_lookbook.php on line 117
+[09-Jul-2016 11:42:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/header.php on line 49
+[09-Jul-2016 11:42:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/header.php on line 49
+[11-Jul-2016 21:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/tpls/contact-form.php on line 40
+[11-Jul-2016 21:34:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/tpls/contact-form.php on line 40
+[11-Jul-2016 21:35:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/tpls/contact-form.php on line 40
+[11-Jul-2016 21:35:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/tpls/contact-form.php on line 40
+[11-Jul-2016 21:35:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/tpls/contact-form.php on line 40
+[11-Jul-2016 21:36:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/tpls/contact-form.php on line 40
+[01-Sep-2016 19:34:40 UTC] PHP Fatal error:  Call to undefined function links() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/header.php on line 43
+[06-Sep-2016 18:44:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/content-product.php on line 42
+[06-Sep-2016 20:15:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:15:10 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:15:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:15:13 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:15:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:15:20 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:15:22 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:15:22 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:15:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:15:49 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:15:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:15:51 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:16:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:16:40 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:16:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:16:45 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:16:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:16:53 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:25:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:25:30 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:25:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:25:35 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:25:36 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:25:36 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:25:38 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:25:38 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:25:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:25:47 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:26:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:26:08 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:26:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:26:09 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:26:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:26:13 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:26:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:26:16 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:26:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:26:16 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:27:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:27:45 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:27:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:27:49 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[06-Sep-2016 20:27:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WC_Query' does not have a method 'price_filter' in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 235
+[06-Sep-2016 20:27:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/woocommerce/includes/class-wc-query.php on line 395
+[10-Sep-2016 18:53:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product.php on line 68
+[10-Sep-2016 18:53:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product.php on line 74
+[10-Sep-2016 19:13:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product.php on line 33
+[10-Sep-2016 19:14:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product.php on line 33
+[10-Sep-2016 19:14:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product.php on line 33
+[10-Sep-2016 19:14:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product.php on line 34
+[10-Sep-2016 19:14:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product.php on line 34
+[10-Sep-2016 19:34:03 UTC] PHP Catchable fatal error:  Object of class WP_User could not be converted to string in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 283
+[10-Sep-2016 19:34:06 UTC] PHP Catchable fatal error:  Object of class WP_User could not be converted to string in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 283
+[10-Sep-2016 19:34:38 UTC] PHP Catchable fatal error:  Object of class WP_User could not be converted to string in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/formatting.php on line 1025
+[10-Sep-2016 19:34:40 UTC] PHP Catchable fatal error:  Object of class WP_User could not be converted to string in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/formatting.php on line 1025
+[10-Sep-2016 22:11:30 UTC] PHP Fatal error:  Call to a member function get_users_balance() on a non-object in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 283
+[10-Sep-2016 22:16:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 286
+[10-Sep-2016 22:17:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 286
+[10-Sep-2016 22:31:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/header.php on line 47
+[10-Sep-2016 22:33:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/header.php on line 47
+[10-Sep-2016 22:33:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/header.php on line 47
+[10-Sep-2016 22:33:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/header.php on line 47
+[10-Sep-2016 23:33:50 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/sidebar-menu-top.php on line 228
+[11-Sep-2016 01:20:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/checkout/review-order.php on line 21
+[11-Sep-2016 01:23:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/checkout/review-order.php on line 20
+[11-Sep-2016 11:55:27 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:27 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:27 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:28 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:28 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:28 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:30 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:30 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:30 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:31 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:31 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:31 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:33 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:33 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:33 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:35 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:35 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:35 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:36 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:36 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:36 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:38 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:38 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:38 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:39 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:39 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:39 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:41 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:41 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:41 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:42 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:42 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:42 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:43 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:43 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:43 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:44 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:44 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:44 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:44 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:44 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:44 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:44 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:44 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:44 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:46 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:46 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:46 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:48 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:48 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:48 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:49 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:49 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:49 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:51 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:51 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:51 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:52 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:52 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:52 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:53 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:53 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:53 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:54 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:54 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:54 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:55:56 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:55:56 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:55:56 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:56:33 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:56:33 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:56:33 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 11:56:35 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 11:56:35 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 11:56:35 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:04:41 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:04:41 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:04:41 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:08:43 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:08:43 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:08:43 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:09:18 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:09:18 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:09:18 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:09:33 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:09:33 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:09:33 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:09:46 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:09:46 UTC] AllParams : 'AmbCla14303962212315''3389''Anuj''5600.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:09:46 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:10:27 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:10:27 UTC] AllParams : 'AmbCla14303962212315''3390''Anuj''8400.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:10:27 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:13:34 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:13:34 UTC] AllParams : 'AmbCla14303962212315''3391''Anuj''11200.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:13:34 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:14:33 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:14:33 UTC] AllParams : 'AmbCla14303962212315''3392''Anuj''8400.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:14:33 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:22:30 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:22:30 UTC] AllParams : 'AmbCla14303962212315''3393''Anuj''2800.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:22:30 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:24:16 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:24:16 UTC] AllParams : 'AmbCla14303962212315''3394''Anuj''8400.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:24:16 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:29:53 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:29:53 UTC] AllParams : 'AmbCla14303962212315''3394''Anuj''8400.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:29:53 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[11-Sep-2016 12:41:59 UTC] redirect url = this http://shop.ambclasse.com/?wc-api=WC_paytm
+[11-Sep-2016 12:41:59 UTC] AllParams : 'AmbCla14303962212315''3396''Anuj''7300.00''WEB''Retail''www.shop.ambclasse.com''a.anuj1405@gmail.com''8447990819'
+[11-Sep-2016 12:41:59 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[12-Sep-2016 12:57:24 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[12-Sep-2016 12:57:24 UTC] AllParams : 'AmbCla14303962212315''3464''Anuj''2800.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[12-Sep-2016 12:57:24 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[12-Sep-2016 13:05:38 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[12-Sep-2016 13:05:38 UTC] AllParams : 'AmbCla14303962212315''3465''Anuj''4500.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[12-Sep-2016 13:05:38 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[12-Sep-2016 13:16:47 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[12-Sep-2016 13:16:47 UTC] AllParams : 'AmbCla14303962212315''3466''Anuj''5600.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[12-Sep-2016 13:16:47 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[12-Sep-2016 13:24:36 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[12-Sep-2016 13:24:36 UTC] AllParams : 'AmbCla14303962212315''3466''Anuj''5600.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[12-Sep-2016 13:24:36 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[12-Sep-2016 13:24:59 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[12-Sep-2016 13:24:59 UTC] AllParams : 'AmbCla14303962212315''3466''Anuj''5600.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[12-Sep-2016 13:24:59 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[12-Sep-2016 13:26:14 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[12-Sep-2016 13:26:14 UTC] AllParams : 'AmbCla14303962212315''3466''Anuj''5600.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[12-Sep-2016 13:26:14 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[12-Sep-2016 13:28:12 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[12-Sep-2016 13:28:12 UTC] AllParams : 'AmbCla14303962212315''3467''Anuj''2800.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[12-Sep-2016 13:28:12 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[12-Sep-2016 19:45:59 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[12-Sep-2016 19:45:59 UTC] AllParams : 'AmbCla14303962212315''3481''Anuj''2800.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[12-Sep-2016 19:45:59 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[13-Sep-2016 04:55:11 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[13-Sep-2016 04:55:11 UTC] AllParams : 'AmbCla14303962212315''3486''ajnd''4500.00''WEB''Retail''WEB_URL''smlkxk@gmail.com''8277382789'
+[13-Sep-2016 04:55:11 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[13-Sep-2016 05:09:39 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[13-Sep-2016 05:09:39 UTC] AllParams : 'AmbCla14303962212315''3487''acnaj''2600.00''WEB''Retail''WEB_URL''akkcn@gmail.com''2345234523'
+[13-Sep-2016 05:09:39 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[13-Sep-2016 05:10:16 UTC] Response Code = 01
+[13-Sep-2016 05:10:16 UTC] amount matched
+[13-Sep-2016 05:10:16 UTC] received parameters = Array
+[13-Sep-2016 05:10:16 UTC] calculated checksum =  and checksum received = IYymcgtQ3ripHSKrNSkT0AR7jGXkeVe5HdOltymjpwS7p+VqK7ItjGUuB/DKFCpdvSrK4Srk1zFJSoO1ccDRLE8K63GzmJfyGMq5QcaOjnA=
+[13-Sep-2016 05:10:16 UTC] SUCCESS
+[13-Sep-2016 13:28:23 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[13-Sep-2016 13:28:23 UTC] AllParams : 'AmbCla14303962212315''3488''Anuj''2800.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[13-Sep-2016 13:28:23 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[13-Sep-2016 13:28:28 UTC] Response Code = 0108
+[13-Sep-2016 14:33:27 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[13-Sep-2016 14:33:27 UTC] AllParams : 'AmbCla14303962212315''3488''Anuj''2800.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[13-Sep-2016 14:33:27 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[13-Sep-2016 15:20:25 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[13-Sep-2016 15:20:25 UTC] AllParams : 'AmbCla14303962212315''3490''Anuj''2800.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[13-Sep-2016 15:20:25 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[13-Sep-2016 15:20:36 UTC] Response Code = 0108
+[13-Sep-2016 21:25:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wpdocs_personal_message_when_logged_in' not found or invalid function name in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 601
+[13-Sep-2016 21:26:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wpdocs_personal_message_when_logged_in' not found or invalid function name in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 601
+[13-Sep-2016 21:26:39 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wpdocs_personal_message_when_logged_in' not found or invalid function name in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 601
+[13-Sep-2016 21:26:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wpdocs_personal_message_when_logged_in' not found or invalid function name in /home1/diwakar/public_html/shop.ambclasse.com/wp-includes/plugin.php on line 601
+[13-Sep-2016 23:30:42 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[13-Sep-2016 23:31:29 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[13-Sep-2016 23:39:07 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[13-Sep-2016 23:39:30 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[14-Sep-2016 05:53:30 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[14-Sep-2016 05:53:30 UTC] AllParams : 'AmbCla14303962212315''3569''Anujas''5499.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[14-Sep-2016 05:53:30 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[14-Sep-2016 05:55:38 UTC] Response Code = 01
+[14-Sep-2016 05:55:38 UTC] amount matched
+[14-Sep-2016 05:55:38 UTC] received parameters = Array
+[14-Sep-2016 05:55:38 UTC] calculated checksum =  and checksum received = 9xcVwFQO7XvHFP/q35HMYvv+9yZmka4zqyV7++L3PePuYKyu0YSHz1Bb7rAfE2iyGzfFgCwvt10YIIMFLxf7hr1+BYO0SwaNU2k1Zo5XR7M=
+[14-Sep-2016 05:55:38 UTC] SUCCESS
+[14-Sep-2016 06:00:42 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[14-Sep-2016 06:00:42 UTC] AllParams : 'AmbCla14303962212315''3570''Anujas''2800.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''08447990819'
+[14-Sep-2016 06:00:42 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[14-Sep-2016 06:01:04 UTC] Response Code = 01
+[14-Sep-2016 06:01:04 UTC] amount matched
+[14-Sep-2016 06:01:04 UTC] received parameters = Array
+[14-Sep-2016 06:01:04 UTC] calculated checksum =  and checksum received = eqO3IS2Mp3soUPrDwWHY3cP3FGUom/gY8puDLsQTl4Mm1uwmC2XMLA0AuIcqGCiwYUw6XMgCn71t0SNwLyIQC7u9Bz9a39FWqP7mDKYe2lw=
+[14-Sep-2016 06:01:04 UTC] SUCCESS
+[14-Sep-2016 06:04:06 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[14-Sep-2016 06:04:06 UTC] AllParams : 'AmbCla14303962212315''3571''Anuj''2800.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''08447990819'
+[14-Sep-2016 06:04:06 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[14-Sep-2016 06:04:13 UTC] Response Code = 0108
+[14-Sep-2016 06:09:04 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[14-Sep-2016 06:09:04 UTC] AllParams : 'AmbCla14303962212315''3572''Anujwewe''5499.00''WEB''Retail''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[14-Sep-2016 06:09:04 UTC] Secret Key : RZ7Yfe3@Ls5P5pyb
+[14-Sep-2016 06:09:45 UTC] Response Code = 01
+[14-Sep-2016 06:09:45 UTC] amount matched
+[14-Sep-2016 06:09:45 UTC] received parameters = Array
+[14-Sep-2016 06:09:45 UTC] calculated checksum =  and checksum received = 07Tt1wQvtgVZcy8yov2WVLW/a1yCKbpMotIiEohtgoFuz+xruy3Rsbd8ZM0zuvsyZ6OKZ6+kVj03gIuxfFi+0BI4G/TBL8h65Rw1T0Nu7lc=
+[14-Sep-2016 06:09:45 UTC] SUCCESS
+[14-Sep-2016 07:50:41 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_banner.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 34
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_banner.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 34
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_banner2.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 35
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_banner2.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 35
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_featuretab.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 36
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_featuretab.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 36
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_blog.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 37
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_blog.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 37
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_button.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 38
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_button.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 38
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_testimonials.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 39
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_testimonials.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 39
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_products.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 43
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_products.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 43
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_products_carousel.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 44
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_products_carousel.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 44
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_lookbook.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 45
+[14-Sep-2016 22:46:20 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_lookbook.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 45
+[14-Sep-2016 23:52:55 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[14-Sep-2016 23:53:27 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[14-Sep-2016 23:54:17 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:01:31 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:02:34 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:03:55 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:03:55 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:04:00 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:04:51 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:04:52 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:04:53 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:07:52 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:08:09 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:09:26 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:10:23 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:10:28 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:11:25 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:11:30 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:11:56 UTC] PHP Parse error:  syntax error, unexpected 'user_id' (T_STRING), expecting ']' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/myaccount/nav-tabs.php on line 51
+[15-Sep-2016 00:20:55 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:21:23 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:21:49 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:45:02 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:46:18 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:46:18 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:46:18 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:48:47 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:48:47 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:48:47 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:48:54 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:48:54 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:48:54 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:50:32 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:50:32 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:50:32 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:50:51 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:50:51 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:50:51 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:52:22 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:52:22 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 00:52:22 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/woocommerce/single-product/tabs/tabs.php on line 34
+[15-Sep-2016 01:02:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 304
+[15-Sep-2016 01:02:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 304
+[15-Sep-2016 01:03:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 321
+[15-Sep-2016 01:03:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 321
+[15-Sep-2016 01:26:24 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 300
+[15-Sep-2016 01:26:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 300
+[15-Sep-2016 01:26:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/functions.php on line 300
+[16-Sep-2016 08:13:35 UTC] Response Code = 01
+[16-Sep-2016 19:57:26 UTC] redirect url = this http://shop.ambclasse.com/my-account/?wc-api=WC_paytm
+[16-Sep-2016 19:57:26 UTC] AllParams : 'Ambcla31334489384499''3577''Anuj''5500.00''WEB''Retail109''WEB_URL''a.anuj1405@gmail.com''8447990819'
+[16-Sep-2016 19:57:26 UTC] Secret Key : a!Tq3Lmp#j9uUicV
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_banner.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 34
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_banner.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 34
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_banner2.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 35
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_banner2.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 35
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_featuretab.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 36
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_featuretab.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 36
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_blog.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 37
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_blog.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 37
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_button.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 38
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_button.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 38
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_testimonials.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 39
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_testimonials.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 39
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_products.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 43
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_products.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 43
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_products_carousel.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 44
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_products_carousel.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 44
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(/laborator-shortcodes/laborator_lookbook.php): failed to open stream: No such file or directory in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 45
+[17-Sep-2016 20:35:42 UTC] PHP Warning:  include_once(): Failed opening '/laborator-shortcodes/laborator_lookbook.php' for inclusion (include_path='phar:///usr/local/bin/wp/vendor/phpunit/php-token-stream:phar:///usr/local/bin/wp/vendor/phpunit/phpunit-mock-objects:phar:///usr/local/bin/wp/vendor/phpunit/php-code-coverage:phar:///usr/local/bin/wp/vendor/phpunit/phpunit:phar:///usr/local/bin/wp/vendor/symfony/yaml:.:/opt/php54/lib/php') in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/themes/oxygen/inc/lib/visual-composer/config.php on line 45
+[18-Sep-2016 19:19:36 UTC] PHP Warning:  in_array() expects at least 2 parameters, 1 given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/yith-woocommerce-ajax-navigation/widgets/class.yith-wcan-navigation-widget.php on line 474
+[18-Sep-2016 19:19:46 UTC] PHP Warning:  in_array() expects at least 2 parameters, 1 given in /home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/yith-woocommerce-ajax-navigation/widgets/class.yith-wcan-navigation-widget.php on line 474
