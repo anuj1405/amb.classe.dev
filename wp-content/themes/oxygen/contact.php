@@ -1,6 +1,7 @@
 <?php
 /*
-	hello
+	
+	byeeee
 	Template Name: Contact
 */
 
