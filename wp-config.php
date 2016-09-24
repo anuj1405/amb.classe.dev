@@ -23,13 +23,13 @@
 /** The name of the database for WordPress */
 //define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/home1/diwakar/public_html/shop.ambclasse.com/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'diwakar_shop');
+define('DB_NAME', 'ambclasse');
 
 /** MySQL database username */
-define('DB_USER', 'diwakar_ambblog');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 't,y]{Xw;7J~L');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

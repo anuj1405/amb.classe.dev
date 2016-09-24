@@ -174,9 +174,9 @@ function woocommerce_paytm_init() {
          **/
         function process_payment($order_id){
             if ( version_compare( WOOCOMMERCE_VERSION, '2.0.0', '>=' ) ) {
-                $order = &new WC_Order($order_id);
+                $order = new WC_Order($order_id);
              } else {
-                $order = &new woocommerce_order($order_id);
+                $order = new woocommerce_order($order_id);
             }
             return array('result' => 'success', 'redirect' => add_query_arg('order',
                 $order->id, add_query_arg('key', $order->order_key, $order->get_checkout_payment_url( true )))
@@ -286,9 +286,9 @@ function woocommerce_paytm_init() {
 			$txnDate=date('Y-m-d');			
 			$milliseconds = (int) (1000 * (strtotime(date('Y-m-d'))));
 			if ( version_compare( WOOCOMMERCE_VERSION, '2.0.0', '>=' ) ) {
-                $order = &new WC_Order($order_id);
+                $order = new WC_Order($order_id);
              } else {
-                $order = &new woocommerce_order($order_id);
+                $order = new woocommerce_order($order_id);
             }
             $redirect_url = ($this -> redirect_page_id=="" || $this -> redirect_page_id==0)?get_site_url() . "/":get_permalink($this -> redirect_page_id);
 			// pretty url check //
